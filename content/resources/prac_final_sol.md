@@ -2,8 +2,13 @@
 content_type: resource
 description: This section contains solutions to questions from the Sample Final Exam
   of the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/9b33a8560d3c54c334f56858e8f65fe6_prac_final_sol.pdf
+file: /media/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/9b33a8560d3c54c334f56858e8f65fe6_prac_final_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: prac_final_sol.pdf
 uid: 9b33a856-0d3c-54c3-34f5-6858e8f65fe6

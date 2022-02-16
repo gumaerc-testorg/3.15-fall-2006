@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes covering data Storage with magnetic, magnetooptical, and
   optical media.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/65cee371f142919d4f74bb8099ca445f_lecture22_23_24.pdf
+file: /media/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/65cee371f142919d4f74bb8099ca445f_lecture22_23_24.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture22_23_24.pdf
 uid: 65cee371-f142-919d-4f74-bb8099ca445f

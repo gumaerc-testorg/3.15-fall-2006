@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This section contains questions from the Sample Final Exam of the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/55993f8513d3c9228959d846ddd34be7_sample_final.pdf
+file: /media/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/55993f8513d3c9228959d846ddd34be7_sample_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: sample_final.pdf
 uid: 55993f85-13d3-c922-8959-d846ddd34be7

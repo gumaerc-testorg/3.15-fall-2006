@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on  luminescence mechanisms and semiconductor
   lasers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/b8c5e774bd8ce5038bd28b87da0d439b_lecture11_12_13.pdf
+file: /media/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/b8c5e774bd8ce5038bd28b87da0d439b_lecture11_12_13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture11_12_13.pdf
 uid: b8c5e774-bd8c-e503-8bd2-8b87da0d439b
