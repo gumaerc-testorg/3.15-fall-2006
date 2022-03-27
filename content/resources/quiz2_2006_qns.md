@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 8c63253c-fa7e-20bb-9980-8f81175998c8
 resourcetype: Document
 title: quiz2_2006_qns.pdf
 uid: 6120cd4d-9917-91bf-e67a-71081af69023

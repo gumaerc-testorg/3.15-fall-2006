@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b1eaa079-b8b8-fbcf-7828-0e75470c24de
 resourcetype: Document
 title: quiz2_2006_qns.pdf
 uid: af73bbe4-bae8-531d-e2b4-fb85a823abba

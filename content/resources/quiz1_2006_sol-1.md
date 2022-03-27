@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b1eaa079-b8b8-fbcf-7828-0e75470c24de
 resourcetype: Document
 title: quiz1_2006_sol.pdf
 uid: 8ade7616-22b4-926b-a934-6d6e0c44d50f
