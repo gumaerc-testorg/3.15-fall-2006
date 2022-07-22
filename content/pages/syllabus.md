@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about course assignments, grading criteria,
+  and educational objectives and outcomes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8c63253c-fa7e-20bb-9980-8f81175998c8
 ---
