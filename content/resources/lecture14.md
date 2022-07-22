@@ -6,6 +6,7 @@ file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture14.pdf
 uid: 39b18424-818b-1fac-e2ad-6579a915e34b
 ---
 This resource contains information on displays that emit or modulate light.
-

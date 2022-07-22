@@ -6,6 +6,7 @@ file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture22_23_24.pdf
 uid: 65cee371-f142-919d-4f74-bb8099ca445f
 ---
 Lecture notes covering data Storage with magnetic, magnetooptical, and optical media.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/0b94a6f1f0e51088cbb3e2084dea56d4_quiz1_2006_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection

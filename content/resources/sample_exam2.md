@@ -5,6 +5,7 @@ file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sample_exam2.pdf
 uid: 94cba66e-d1c7-b24e-1da0-1b81ef614cdc
 ---
 This section contains questions from Exam 2 of the course.
-

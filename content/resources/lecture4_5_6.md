@@ -6,6 +6,7 @@ file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture4_5_6.pdf
 uid: 7cc1e941-91cd-88d8-2d13-85eeac20bb98
 ---
 Lecture notes covering the following topics: unbiased (equilibrium) pn junction, biased pn junction, the ideal diode equation, and non-idealities.
-

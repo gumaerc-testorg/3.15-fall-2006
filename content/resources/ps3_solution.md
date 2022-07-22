@@ -6,6 +6,7 @@ file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps3_solution.pdf
 uid: 4f595c80-2b27-0d14-5a60-62217b2244c8
 ---
 This resource contains solutions for problems set 3 on pn junctions, BJTs and MOS.
-

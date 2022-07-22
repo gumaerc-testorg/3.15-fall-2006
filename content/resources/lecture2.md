@@ -6,6 +6,7 @@ file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture2.pdf
 uid: b04f645a-6077-1cb6-e553-fa9f612254a9
 ---
 Lecture notes covering the following topics: carrier drift, diffusion, and feneration and recombination.
-

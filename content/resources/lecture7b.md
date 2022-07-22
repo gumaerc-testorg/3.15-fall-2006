@@ -5,6 +5,7 @@ file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture7b.pdf
 uid: 1996e561-7f95-2ee3-22c7-39d9e24f4ff9
 ---
 Lecture notes covering common base circuits and common emitter circuits.
-

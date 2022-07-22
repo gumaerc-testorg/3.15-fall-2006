@@ -6,6 +6,7 @@ file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture9.pdf
 uid: 110ed969-f744-2b8e-d4f4-ff7a8e3d9026
 ---
 Lecture notes covering the following topics: photoconducting materials, photodiode and photovoltaic (PV), and direct and indirect gap.
-
