@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions for problem set 1 on semiconductor fundamentals.
 file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/9365eacd5ea7254c7d858af1162f0f70_ps1_solution.pdf
+file_size: 145570
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on displays that emit or modulate
   light.
 file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/39b18424818b1face2ad6579a915e34b_lecture14.pdf
+file_size: 60419
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

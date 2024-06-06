@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/bbc013663892badce2e11d317abf5dba_quiz2_2006_sol.pdf
+file_size: 156955
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
