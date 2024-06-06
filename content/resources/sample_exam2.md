@@ -2,6 +2,7 @@
 content_type: resource
 description: This section contains questions from Exam 2 of the course.
 file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/94cba66ed1c7b24e1da01b81ef614cdc_sample_exam2.pdf
+file_size: 1395937
 file_type: application/pdf
 learning_resource_types:
 - Exams

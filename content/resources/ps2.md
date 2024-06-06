@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems set 2 on carriers and pn junctions.
 file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/2171ff421422eea3dd14e1d430ec776a_ps2.pdf
+file_size: 54663
 file_type: application/pdf
 learning_resource_types:
 - Assignments

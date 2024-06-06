@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions to problem set 5 based on lasers and
   LEDs.
 file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/10d7ad29082d12c0ce819ff6f768cbed_ps5_solution.pdf
+file_size: 138849
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on intrinsic properties, extrinsic
   properties, and carrier distributions (intrinsic).
 file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/a3b94baf512eac5e3272b6f2f9b59467_lecture1.pdf
+file_size: 262614
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
