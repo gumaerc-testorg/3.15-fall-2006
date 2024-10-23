@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set 1 on semiconductor fundamentals.
-file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/fe523d5db13a5c8f7d58a5ee06c1045e_ps1.pdf
+file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/fe523d5db13a5c8f7d58a5ee06c1045e_ps1.pdf
 file_size: 54922
 file_type: application/pdf
 learning_resource_types:
