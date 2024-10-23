@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This section contains solutions to questions from Exam 1 of the course.
-file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/4a21b572b1a1ffa9f3b08c94c0f89875_exam1_sol.pdf
+file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/4a21b572b1a1ffa9f3b08c94c0f89875_exam1_sol.pdf
 file_size: 203555
 file_type: application/pdf
 learning_resource_types:
