@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for problems set 3 on pn junctions,
   BJTs and MOS.
-file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/4f595c802b270d145a6062217b2244c8_ps3_solution.pdf
+file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/4f595c802b270d145a6062217b2244c8_ps3_solution.pdf
 file_size: 323374
 file_type: application/pdf
 learning_resource_types:

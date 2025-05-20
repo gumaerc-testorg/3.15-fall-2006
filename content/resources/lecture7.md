@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes covering the following topics: bipolar junction transistors,
   junction field effect transistors, and metal?oxide?semiconductor field effect transistors.'
-file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/5d3ca8e27b90844252ee7d300b5c9c89_lecture7.pdf
+file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/5d3ca8e27b90844252ee7d300b5c9c89_lecture7.pdf
 file_size: 861327
 file_type: application/pdf
 learning_resource_types:

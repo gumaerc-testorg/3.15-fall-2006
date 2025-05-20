@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set 4 based on photodevices.
-file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/0f7e691bd62091722b01170147000dbc_ps4.pdf
+file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/0f7e691bd62091722b01170147000dbc_ps4.pdf
 file_size: 108235
 file_type: application/pdf
 learning_resource_types:
