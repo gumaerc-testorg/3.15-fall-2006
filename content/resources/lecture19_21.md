@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes covering how transformers and DC motors work.
-file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/4ea9700f3801a78718a8ccb0e981bd05_lecture19_21.pdf
+file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/4ea9700f3801a78718a8ccb0e981bd05_lecture19_21.pdf
 file_size: 100472
 file_type: application/pdf
 learning_resource_types:

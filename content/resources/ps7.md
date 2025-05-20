@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set 7 on electrical, optical and magnetic
   materials and devices.
-file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/dec127c3eeeb60d44845f8403e83c7e3_ps7.pdf
+file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/dec127c3eeeb60d44845f8403e83c7e3_ps7.pdf
 file_size: 35411
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/8ade761622b4926ba9346d6e0c44d50f_quiz1_2006_sol.pdf
+file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/8ade761622b4926ba9346d6e0c44d50f_quiz1_2006_sol.pdf
 file_size: 152120
 file_type: application/pdf
 learning_resource_types:
