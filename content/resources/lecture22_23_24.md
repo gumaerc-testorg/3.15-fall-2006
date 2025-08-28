@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes covering data Storage with magnetic, magnetooptical, and
   optical media.
-file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/65cee371f142919d4f74bb8099ca445f_lecture22_23_24.pdf
+file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/65cee371f142919d4f74bb8099ca445f_lecture22_23_24.pdf
 file_size: 89271
 file_type: application/pdf
 learning_resource_types:

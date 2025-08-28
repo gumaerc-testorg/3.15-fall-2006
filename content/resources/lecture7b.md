@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes covering common base circuits and common emitter circuits.
-file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/1996e5617f952ee322c739d9e24f4ff9_lecture7b.pdf
+file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/1996e5617f952ee322c739d9e24f4ff9_lecture7b.pdf
 file_size: 576223
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to problem set 6 on magnetic fundamentals.
-file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/4792509d6b45f682465d3e5674417819_ps6_solution.pdf
+file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/4792509d6b45f682465d3e5674417819_ps6_solution.pdf
 file_size: 176375
 file_type: application/pdf
 learning_resource_types:
