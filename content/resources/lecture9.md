@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes covering the following topics: photoconducting materials,
   photodiode and photovoltaic (PV), and direct and indirect gap.'
-file: /courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/110ed969f7442b8ed4f4ff7a8e3d9026_lecture9.pdf
+file: /ol-ocw-studio-app/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/110ed969f7442b8ed4f4ff7a8e3d9026_lecture9.pdf
 file_size: 145369
 file_type: application/pdf
 learning_resource_types:
